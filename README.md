@@ -45,7 +45,7 @@ pip install -r requirements.txt
 bash
 python Help.py
 Способ 2: Готовый EXE файл
-Скачайте VoiceAssistant.exe из релизов
+Скачайте help.exe из [релизов](https://cloud.mail.ru/public/r9pn/r1tzvoKVQ)
 
 Запустите двойным кликом
 
